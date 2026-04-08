@@ -1,3 +1,4 @@
+
 # 🎧 Emotion-Based Music Recommendation System
 
 ##  Project Overview
@@ -125,3 +126,7 @@ This project demonstrates how AI and web development can be combined to create a
 ## ⭐ Author
 
 Janhavi Jagtap
+=======
+# emotion-music-recommender
+AI-based Emotion Music Recommendation System using React,Flask and ML
+
